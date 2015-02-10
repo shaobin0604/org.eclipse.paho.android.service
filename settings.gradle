@@ -1,0 +1,3 @@
+include ':org.eclipse.paho.android.service'
+include ':org.eclipse.paho.android.service.test'
+include ':org.eclipse.paho.android.service.sample'
